@@ -1,16 +1,24 @@
-## Hi there 👋
+Olá, eu sou o Cauã da Rocha Pereira 👋
 
-<!--
-**1CauaDev/1CauaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor apaixonado por tecnologia, focado em criar soluções inovadoras e eficientes. Atualmente, estou me aprofundando em JavaScript, React, Node.js e TypeScript.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias com as quais trabalho:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+📈 Estatísticas do GitHub
+
+📬 Contatos
+Você pode me encontrar em:
+
+LinkedIn
+
+Twitter
+
+Email
+
+🎯 Objetivos
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Se você tem um projeto interessante ou deseja colaborar, entre em contato!
