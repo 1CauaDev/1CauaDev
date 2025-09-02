@@ -14,7 +14,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 📬 Contatos
 Você pode me encontrar em:
 
-LinkedIn
+LinkedIn:https://www.linkedin.com/in/cau%C3%A3-da-rocha-714bab292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Twitter
 
