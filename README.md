@@ -18,7 +18,7 @@ LinkedIn:https://www.linkedin.com/in/cau%C3%A3-da-rocha-714bab292?utm_source=sha
 
 Twitter
 
-Email
+Email : Rochacaua143@gmail.com
 
 🎯 Objetivos
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Se você tem um projeto interessante ou deseja colaborar, entre em contato!
