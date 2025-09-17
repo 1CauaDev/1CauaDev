@@ -1,6 +1,6 @@
 Olá, eu sou o Cauã da Rocha Pereira 👋
 
-Sou desenvolvedor apaixonado por tecnologia, focado em criar soluções inovadoras e eficientes. Atualmente, estou me aprofundando em JavaScript, React, Node.js e TypeScript.
+Sou desenvolvedor apaixonado por tecnologia, focado em criar soluções inovadoras e eficientes. Atualmente, estou me aprofundando em Python,HTML,CSS3,JavaScript
 
 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias com as quais trabalho:
