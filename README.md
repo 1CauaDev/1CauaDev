@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cauã da Rocha Pereira!
+# 👋 Olá! Eu sou o **Cauã da Rocha Pereira**
 
 🎯 Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em criar soluções **eficientes**, **criativas** e **escaláveis**.
 
@@ -10,7 +10,7 @@ Atualmente estou me aprofundando em:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
+Aqui estão algumas tecnologias e ferramentas com as quais tenho trabalhado:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,6 +30,17 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ---
 
+## 📊 Commits & Contribuições
+
+Esses cards mostram **quantos commits você já fez**, contribuindo para atualizar automaticamente sempre que você fizer:
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cauarocha&count_private=true&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=cauarocha&limit=5&theme=radical" />
+</p>
+
+---
+
 ## 📬 Contatos
 
 📩 Você pode me encontrar em:
@@ -42,11 +53,12 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ## 🚀 Objetivos
 
-- 🔍 Sempre em busca de novos desafios para crescer como desenvolvedor  
+- 🔍 Sempre em busca de novos desafios para evoluir como desenvolvedor  
 - 🤝 Aberto a colaborações e projetos interessantes  
-- 💡 Buscando evoluir constantemente no universo da programação
+- 💡 Buscando crescer constantemente no universo da programação  
 
 ---
 
 > “A tecnologia move o mundo — e eu quero fazer parte dessa mudança.” 🌍✨
+
 
