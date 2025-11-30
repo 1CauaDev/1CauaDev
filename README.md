@@ -31,12 +31,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 ---
 
 
-### 🔥 Commits Totais
-![Commits](https://komarev.com/ghpvc/?username=cauarocha&color=blue)
-
-### 📦 Commits no Ano Atual
-![GitHub Commits](https://badges.pufler.dev/commits/year/cauarocha)
-
 ---
 
 ## 📬 Contatos
