@@ -4,7 +4,7 @@
 
 Atualmente estou me aprofundando em:
 
-> 🐍 **Python** &nbsp; | &nbsp; 🌐 **HTML / CSS3 / JavaScript**
+> 🐍 **Python** &nbsp; | &nbsp; 🌐 **HTML / CSS3 | JavaScript**
 
 ---
 
