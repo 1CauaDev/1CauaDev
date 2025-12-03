@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou **Cauã da Rocha Pereira**
 
-✨ Desenvolvedor apaixonado por tecnologia e inovação.  
-Busco criar soluções **eficientes**, **criativas** e **escaláveis**, sempre evoluindo como programador.
+✨ Desenvolvedor focado em tecnologia e inovação.
+Comprometido em criar soluções eficientes, criativas e escaláveis, mantendo constante evolução profissional.
 
 Atualmente estudando:
 
