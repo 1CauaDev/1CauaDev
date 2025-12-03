@@ -1,56 +1,56 @@
-# 👋 Olá! Eu sou **Cauã da Rocha Pereira**
+# 👋 Olá, eu sou o Cauã da Rocha Pereira!
 
-✨ Desenvolvedor focado em tecnologia e inovação.
-Comprometido em criar soluções eficientes, criativas e escaláveis, mantendo constante evolução profissional.
+🎯 Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em criar soluções **eficientes**, **criativas** e **escaláveis**.
 
-Atualmente estudando:
+Atualmente estou me aprofundando em:
 
-> 🐍 **Python** • 🌐 **HTML / CSS3 / JavaScript**
+> 🐍 **Python** &nbsp; | &nbsp; 🌐 **HTML / CSS3 | JavaScript**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cauarocha&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=cauarocha&theme=radical" />
-</div>
+</p>
 
 ---
 
-## 📈 Gráfico de Commits
-
-<div align="center">
-  
-![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=cauarocha&theme=react-dark&hide_border=true&area=true)
-
-</div>
 
 ---
 
 ## 📬 Contatos
 
-[LinkedIn](https://www.linkedin.com/in/cau%C3%A3-da-rocha-714bab292/)  
-📧 **rochacaua143@gmail.com**
+📩 Você pode me encontrar em:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-da-rocha-714bab292/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+📧 **Email:** [rochacaua143@gmail.com](mailto:rochacaua143@gmail.com)
 
 ---
 
-<div align="center">
+## 🚀 Objetivos
 
-### ✨ *“A tecnologia move o mundo — e eu quero fazer parte dessa mudança.”*
+- 🔍 Sempre em busca de novos desafios para crescer como desenvolvedor  
+- 🤝 Aberto a colaborações e projetos interessantes  
+- 💡 Buscando evoluir constantemente no universo da programação
 
-</div>
+---
 
+> “A tecnologia move o mundo — e eu quero fazer parte dessa mudança.” 🌍✨ consegue melhorar para mim 
 
 
