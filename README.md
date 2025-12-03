@@ -3,9 +3,8 @@
 ✨ Desenvolvedor apaixonado por tecnologia e inovação.  
 Busco criar soluções **eficientes**, **criativas** e **escaláveis**, sempre evoluindo como programador.
 
----
+Atualmente estudando:
 
-## 🧠 Atualmente estudando:
 > 🐍 **Python** • 🌐 **HTML / CSS3 / JavaScript**
 
 ---
@@ -21,26 +20,21 @@ Busco criar soluções **eficientes**, **criativas** e **escaláveis**, sempre e
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🔹 **Agenda Acadêmica (Tkinter + Python)**
-- Login e Registro  
-- Agendamento de eventos  
-- Armazenamento em JSON  
-- Senhas criptografadas  
-
-### 🔹 **Sistema de Controle de Estoque**
-- Cadastro de produtos  
-- Controle de entradas e saídas  
-- Planejamento para versão Web  
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cauarocha&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=cauarocha&theme=radical" />
+</div>
+
+---
+
+## 📈 Gráfico de Commits
+
+<div align="center">
+  
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=cauarocha&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -57,5 +51,6 @@ Busco criar soluções **eficientes**, **criativas** e **escaláveis**, sempre e
 ### ✨ *“A tecnologia move o mundo — e eu quero fazer parte dessa mudança.”*
 
 </div>
+
 
 
